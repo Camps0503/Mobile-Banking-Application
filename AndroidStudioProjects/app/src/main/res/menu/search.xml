@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/search"
+        android:icon="@drawable/search"
+        android:title="Search"
+        app:showAsAction="always"
+        android:textColor="@color/black"
+        app:actionViewClass="android.widget.SearchView"/>
+
+    <item
+        android:id="@+id/profile"
+        android:icon="@drawable/ic_baseline_person_24"
+        android:textColor="@color/black"
+        android:title="Profile"
+        android:visible="true"
+        app:showAsAction="always" />
+
+</menu>

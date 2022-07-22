@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "612307862860",
+    "project_id": "csbanking-96317",
+    "storage_bucket": "csbanking-96317.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612307862860:android:fdb08e1b6d4627ef81fbe9",
+        "android_client_info": {
+          "package_name": "com.example.csbanking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "612307862860-1m7ph6junu5qtogl8kprf5dk6maq6hrb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjr2OVB0iaSAK97dZWPGr9hjonAOK4rvc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "612307862860-1m7ph6junu5qtogl8kprf5dk6maq6hrb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
